@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <CheckBoxPreference
+            android:title="@string/vibration"
+            android:summaryOn="@string/night_mode_on_summary"
+            android:summaryOff="@string/night_mode_off_summary"
+            android:defaultValue="false"
+            android:key="vibration_pref_key"
+            />
+        <CheckBoxPreference
+            android:title="@string/us_format"
+            android:summaryOn="@string/us_format_on"
+            android:summaryOff="@string/us_format_off"
+            android:defaultValue="false"
+            android:key="us_format_pref_key"
+            />
+</PreferenceScreen>

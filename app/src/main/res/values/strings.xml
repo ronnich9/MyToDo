@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyToDo</string>
+    <string name="icon_envelope">☠</string>
+    <string name="vibration">Vibration</string>
+    <string name="night_mode_on_summary">Vibration is on</string>
+    <string name="night_mode_off_summary">Vibration is off</string>
+    <string name="vibration_pref_key">VibrationPreference</string>
+    <string name="us_format">US date format</string>
+    <string name="us_format_on">on</string>
+    <string name="us_format_off">off</string>
+    <string name="us_format_pref_key">USFormatPreference</string>
+
+</resources>

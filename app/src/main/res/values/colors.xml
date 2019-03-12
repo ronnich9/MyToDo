@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary2">#3F51B5</color>
+    <color name="colorPrimaryDark2">#303F9F</color>
+    <color name="colorAccent2">#FF4081</color>
+
+    <color name="colorPrimary3">#689EB8</color>
+    <color name="colorPrimaryDark3">#538096</color>
+    <color name="colorAccent3">#FF5A60</color>
+    <color name="colorBackground3">#F3F4F6</color>
+    <color name="colorNoteItem3">#A79B94</color>
+
+    <color name="colorPrimary4">#000000</color>
+    <color name="colorPrimaryDark4">#000000</color>
+    <color name="colorAccent4">#F60100</color>
+    <color name="colorBackground4">#002540</color>
+    <color name="colorNoteItem4">#0070F7</color>
+
+    <color name="colorPrimary5">#2c2c2c</color>
+    <color name="colorPrimaryDark5">#000000</color>
+    <color name="colorAccent5">#FF4081</color>
+    <color name="colorBackground5">#FF9A00</color>
+    <color name="colorNoteItem5">#FCBD34</color>
+
+    <color name="colorPrimary6">#7b7b7d</color>
+    <color name="colorPrimaryDark6">#353537</color>
+    <color name="colorAccent6">#6db432</color>
+    <color name="colorBackground6">#F3F4F6</color>
+    <color name="colorNoteItem6">#8bc064</color>
+
+    <color name="colorPrimary7">#050b2b</color>
+    <color name="colorPrimaryDark7">#020721</color>
+    <color name="colorAccent7">#e51e2b</color>
+    <color name="colorBackground7">#495b53</color>
+    <color name="colorNoteItem7">#d4173f</color>
+
+    <!--the best-->
+    <color name="colorPrimary">#007ee3</color>
+    <color name="colorPrimaryDark">#0077d6</color>
+    <color name="colorAccent">#768591</color>
+    <color name="colorBackground">#edeef1</color>
+    <color name="colorNoteItem">#ffffff</color>
+
+    <color name="colorPrimary8">#007ee3</color>
+    <color name="colorPrimaryDark8">#000000</color>
+    <color name="colorAccent8">#cd342e</color>
+    <color name="colorBackground8">#f2f0f3</color>
+    <color name="colorNoteItem8">#ffffff</color>
+
+    <color name="colorPrimary10">#016748</color>
+    <color name="colorPrimaryDark10">#58221c</color>
+    <color name="colorAccent10">#e65415</color>
+    <color name="colorBackground10">#ededec</color>
+    <color name="colorNoteItem10">#ffffff</color>
+
+    <color name="colorPrimary9">#ff9a98</color>
+    <color name="colorPrimaryDark9">#9ddad2</color>
+    <color name="colorAccent9">#048d79</color>
+    <color name="colorBackground9">#ffdedf</color>
+    <color name="colorNoteItem9">#ffffff</color>
+</resources>

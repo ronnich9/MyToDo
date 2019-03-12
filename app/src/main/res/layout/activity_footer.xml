@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FooterActivity">
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/doyoulike"
+        android:layout_margin="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Other apps from developer"
+        android:textStyle="bold"
+        android:textSize="23sp"/>
+
+    <LinearLayout
+        android:layout_below="@id/doyoulike"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/relt_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imgOA"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/web_hi_res_5122" />
+
+            <TextView
+                android:layout_below="@id/imgOA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="English Poems"
+                android:layout_margin="5dp"
+                android:textStyle="bold"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
